@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+    <style name="CustomTextStyle" parent="@android:style/TextAppearance.Widget.TabWidget">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="StyledDialog" parent="@android:style/Theme.Panel">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:alertDialogStyle">@style/CustomStyle</item>
+    </style>
+
+    <style name="CustomStyle">
+        <item name="android:bottomBright">#FFFFFF</item>
+        <item name="android:bottomDark">#FFFFFF</item>
+        <item name="android:bottomMedium">#FFFFFF</item>
+        <item name="android:centerBright">#FFFFFF</item>
+        <item name="android:centerDark">#FFFFFF</item>
+        <item name="android:centerMedium">#FFFFFF</item>
+        <item name="android:fullBright">#FFFFFF</item>
+        <item name="android:fullDark">#FFFFFF</item>
+        <item name="android:topBright">#FFFFFF</item>
+        <item name="android:topDark">#FFFFFF</item>
+    </style>
+</resources>

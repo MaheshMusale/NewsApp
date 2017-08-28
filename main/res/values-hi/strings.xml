@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">न्यूज़</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="slide_1_title">न्यूज़ !</string>
+    <string name="slide_1_desc">यह आप जहाँ रहते है!</string>
+    <string name="Top_News_title">मुख्य समाचार</string>
+    <string name="Buisness_News_title">व्यापार</string>
+    <string name="Entertainment_News_title">मनोरंजन</string>
+    <string name="World_News_title">विश्व</string>
+    <string name="Technology_News_title">प्रौद्योगिकी</string>
+    <string name="Sports_News_title">खेल</string>
+    <string name="new_activity">अन्य गतिविधि पर जाएं</string>
+    <string name="close_activity">इस ऐप को बंद करें</string>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <string-array name="News_array">
+        <item>मुख्यसमाचार</item>
+        <item>व्यापार</item>
+        <item>मनोरंजन</item>
+        <item>विश्व</item>
+        <item>प्रौद्योगिकी</item>
+        <item>खेल</item>
+    </string-array>
+</resources>

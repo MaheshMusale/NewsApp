@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/TopNews"
+        android:icon="@drawable/ic_home"
+        android:title="@string/Top_News_title" />
+
+    <item
+        android:id="@+id/Business"
+        android:icon="@drawable/ic_business"
+        android:title="@string/Buisness_News_title" />
+
+    <item
+        android:id="@+id/Entertainment"
+        android:icon="@drawable/ic_entertainment"
+        android:title="@string/Entertainment_News_title" />
+    <item
+        android:id="@+id/World"
+        android:icon="@drawable/ic_world"
+        android:title="@string/World_News_title" />
+    <item
+        android:id="@+id/Technology"
+        android:icon="@drawable/ic_technology"
+        android:title="@string/Technology_News_title" />
+    <item
+        android:id="@+id/Sports"
+        android:icon="@drawable/ic_sport"
+        android:title="@string/Sports_News_title" />
+
+    <item
+        android:id="@+id/Offline"
+        android:icon="@drawable/ic_sport"
+        android:title="Offline" />
+
+
+    <item
+        android:id="@+id/go"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="@string/new_activity" />
+
+    <item
+        android:id="@+id/close"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="@string/close_activity" />
+</menu>

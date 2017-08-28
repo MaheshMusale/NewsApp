@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="slide_1_title">News!</string>
+    <string name="slide_1_desc">It’s where you live!</string>
+    <string name="Top_News_title">Top News</string>
+    <string name="Buisness_News_title">Business</string>
+    <string name="Entertainment_News_title">Entertainment</string>
+    <string name="World_News_title">World</string>
+    <string name="Technology_News_title">Technology</string>
+    <string name="Sports_News_title">Sports</string>
+    <string name="Offline_News_title">Offline</string>
+    <string name="new_activity">Go to Other Activity</string>
+    <string name="close_activity">Close this App</string>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <string-array name="News_array">
+        <item>TopNews</item>
+        <item>Business</item>
+        <item>Entertainment</item>
+        <item>World</item>
+        <item>Technology</item>
+        <item>Sports</item>
+        <item>Offline</item>
+    </string-array>
+
+</resources>
